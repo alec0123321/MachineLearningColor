@@ -31,3 +31,10 @@ label {
   font-size: 2rem;
   padding: 30px 30px;
   font-family: 'Bangers', cursive; }
+
+.topdown {
+  padding-top: 30px; }
+
+@media screen and (max-width: 768px) {
+  .area {
+    font-size: 1rem; } }
